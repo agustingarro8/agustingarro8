@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hola, soy Agustín Garro 👋
 
-<!--
-**agustingarro8/agustingarro8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de Ciencia de Datos | Universidad Austral
 
-Here are some ideas to get you started:
+Soy estudiante de la Licenciatura en Ciencia de Datos. Me interesa la programación, el análisis de datos y aprender a utilizar estas herramientas para resolver problemas reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mí
+
+-  Actualmente estudio la Licenciatura en Ciencia de Datos en la Universidad Austral.
+-  Estoy desarrollando mis conocimientos en programación y análisis de datos.
+-  Me interesa aplicar la ciencia de datos a problemas reales y seguir desarrollando proyectos propios.
+-  Mi objetivo es seguir aprendiendo y construyendo experiencia a través de nuevos proyectos.
+
+## 🛠️ Lenguajes y herramientas
+
+- Python
+- R
+- JavaScript
+- HTML
+- CSS
+- Git y GitHub
+
+## 📚 Actualmente aprendiendo
+
+Actualmente estoy profundizando mis conocimientos en:
+
+- R y análisis de datos.
+- Programación y resolución de problemas.
+- Visualización de datos.
+- Git y GitHub para organizar y desarrollar proyectos.
+
+## 🚀 Proyectos
+
+Estoy comenzando a desarrollar proyectos propios para aplicar los conocimientos adquiridos durante la carrera.
+
+A medida que avance, voy a ir publicando nuevos proyectos en este perfil.
